@@ -4,7 +4,7 @@
   <title>Sky Blue Message</title>
   <style>
     body {
-      background-color: skyblue;
+      background-color: red;
     }
     
     h1 {
@@ -24,10 +24,10 @@
   </style>
 </head>
 <body>
-  <h1>Sky Blue Message</h1>
+  <h1>NUMINO LAB PVT LTD</h1>
   <div class="message">
-    <p>WELCOME TO JAVA WORLD, SHUBHAM........!</p>
- <p>TO SURVIVE HERE YOU HAVE WORK VERY VERY HARD, THERE IS NO OTHER OPTION.....ALL THE BEST</p>
+    <p>WELCOME TO IT WORLD, SHUBHAM........!</p>
+ <p>TO SURVIVE HERE YOU HAVE TO WORK VERY VERY HARD, THERE IS NO OTHER OPTION.....ALL THE BEST</p>
   </div>
 </body>
 </html>
