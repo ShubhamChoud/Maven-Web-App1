@@ -4,14 +4,14 @@
   <title>Sky Blue Message</title>
   <style>
     body {
-      background-color: red;
+      background-color: skyblue;
     }
     
     h1 {
       text-align: center;
       color: white;
       padding: 20px;
-      background-color: deepskyblue;
+      background-color: purple;
       margin-top: 0;
     }
     
