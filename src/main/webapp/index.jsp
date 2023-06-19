@@ -26,7 +26,8 @@
 <body>
   <h1>Sky Blue Message</h1>
   <div class="message">
-    <p>This is a message with a sky blue background color!</p>
+    <p>WELCOME TO JAVA WORLD, SHUBHAM........!</p>
+ <p>TO SURVIVE HERE YOU HAVE WORK VERY VERY HARD, THERE IS NO OTHER OPTION.....ALL THE BEST</p>
   </div>
 </body>
 </html>
